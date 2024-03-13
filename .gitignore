@@ -1,0 +1,19 @@
+# Arquivos temporários
+.vscode/
+.vscode/*
+
+# Arquivos gerados pela compilação
+*.o
+*.out
+*.exe
+
+# Arquivos gerados pelo Code Runner
+code-runner-*.txt
+
+# Arquivos específicos do Linux
+*.swp     # Arquivos de troca temporária do Vim
+*~        # Arquivos de backup
+.DS_Store # Arquivos de metadados do macOS
+
+# Diretório de saída
+output/

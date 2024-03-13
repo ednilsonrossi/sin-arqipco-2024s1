@@ -10,13 +10,11 @@ int main(int argc, char const *argv[])
     scanf("%f", &p2_x);
     scanf("%f", &p2_y);
 
-    /*
     dist = pow( (p2_x - p1_x), 2);
     dist = dist + pow( (p2_y - p1_y), 2);
     dist = sqrt(dist);
 
     printf("%.4f\n", dist);
-    */
 
     return 0;
 }

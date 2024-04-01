@@ -9,12 +9,13 @@ arquibancada - 30% a R$ 10,00 e cadeiras - 10% a R$ 20,00.
 
 float calcula_renda(int ingresso, int porcent, float valor);
 
+
 int main(int argc, char const *argv[])
 {
     int ingressos;
     float popular, geral, arquibancada, cadeiras, renda;
 
-
+    funcao2();
     printf("Informe quantidade de ingressos: ");
     scanf("%d", &ingressos);
 
